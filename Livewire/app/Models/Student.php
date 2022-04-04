@@ -23,5 +23,5 @@ class Student extends Model
         'ville',
         'frameworks',
         'cv',
-    ]
+    ];
 }
